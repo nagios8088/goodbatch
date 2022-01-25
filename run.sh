@@ -1,2 +1,1 @@
-#!/bin/bash
-This is my file
+echo "build1"
