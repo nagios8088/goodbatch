@@ -1,3 +1,2 @@
-This is for testing only
-testing file basically
-hello
+#!/bin/bash
+This is my file
